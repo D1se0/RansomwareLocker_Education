@@ -1,6 +1,6 @@
-# 🛡️ RansomwareSim
+# 🛡️ RansomwareLocker
 
-RansomwareSim es una herramienta educativa que simula el funcionamiento básico de un ransomware. Está diseñada para fines didácticos y de concienciación, permitiendo entender cómo operan estos programas maliciosos en un entorno controlado.
+RansomwareLocker es una herramienta educativa que simula el funcionamiento básico de un ransomware. Está diseñada para fines didácticos y de concienciación, permitiendo entender cómo operan estos programas maliciosos en un entorno controlado.
 
 > ⚠️ Advertencia: Este proyecto es únicamente para uso educativo y pruebas en entornos seguros. No utilices este software en sistemas productivos o con datos reales. El autor no se hace responsable del mal uso.
 
