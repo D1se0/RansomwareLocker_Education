@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+  <OutputType>Exe</OutputType>
+  <TargetFramework>net8.0</TargetFramework>
+  <Nullable>enable</Nullable>
+  <ImplicitUsings>enable</ImplicitUsings>
+  <ApplicationManifest>app.manifest</ApplicationManifest>
+</PropertyGroup>
+
+<ItemGroup>
+  <Resource Include="locked.ico" /> <!-- Puedes quitarlo si no lo usas -->
+</ItemGroup>
+
+</Project>

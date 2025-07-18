@@ -1,0 +1,12 @@
+# Hay que cambiar el <USER> del archivo "set_locked_icon.reg" por tu usuario, esto es para que obtenga el icono del cifrado de forma automática cuando detecte archivos con .locked
+
+# Hay que darle doble click a "set_locked_icon.reg" para instalarlo en Windows y con esto ya seria funcional el programa
+
+###################-REQUISITOS-###################
+
+# Hay que instalar .NET 8.0 en Windows para que funcione, si se le quiere hacer algún cambio al ".cs" habría que volver a compilarlo poniendo lo siguiente:
+
+$ dotnet.exe build -c Release
+
+# Estando dentro de la carpeta donde están todos los archivos, para ello hay que instalar "dotnet" en Windows para que funcione y por si acaso también "gcc".
+

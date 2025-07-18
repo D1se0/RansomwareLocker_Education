@@ -1,0 +1,14 @@
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\bin\Release\net8.0\ransomwareLocker.exe
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\bin\Release\net8.0\ransomwareLocker.deps.json
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\bin\Release\net8.0\ransomwareLocker.runtimeconfig.json
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\bin\Release\net8.0\ransomwareLocker.dll
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\bin\Release\net8.0\ransomwareLocker.pdb
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.AssemblyInfoInputs.cache
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.AssemblyInfo.cs
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.csproj.CoreCompileInputs.cache
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.dll
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\refint\ransomwareLocker.dll
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.pdb
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ransomwareLocker.genruntimeconfig.cache
+C:\Users\clipt\Desktop\RansomwareLocker\ransomwareLocker\obj\Release\net8.0\ref\ransomwareLocker.dll
