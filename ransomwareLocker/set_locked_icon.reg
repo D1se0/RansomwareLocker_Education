@@ -7,4 +7,4 @@ Windows Registry Editor Version 5.00
 @="Archivo Cifrado RansomwareSim"
 
 [HKEY_CLASSES_ROOT\RansomwareSim.lockedfile\DefaultIcon]
-@="C:\\Users\\<USER>\\Desktop\\RansomwareLocker\\ransomwareLocker\\locked.ico"
+@="C:\\Users\\<USER>\\Desktop\\RansomwareLocker_Education\\locked.ico"
