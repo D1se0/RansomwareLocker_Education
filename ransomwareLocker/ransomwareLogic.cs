@@ -18,7 +18,7 @@ namespace RansomwareSim
                 files.AddRange(Directory.GetFiles(path, searchPattern));
                 foreach (var dir in Directory.GetDirectories(path))
                 {
-                    if (string.Equals(new DirectoryInfo(dir).Name, "ransomwareLocker", StringComparison.OrdinalIgnoreCase))
+                    if (string.Equals(new DirectoryInfo(dir).Name, "ransomwareLocker_Education", StringComparison.OrdinalIgnoreCase))
                         continue; // Ignorar carpeta especial
                     files.AddRange(SafeEnumerateFiles(dir, searchPattern));
                 }
