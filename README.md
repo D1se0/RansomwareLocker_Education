@@ -60,7 +60,7 @@ Elige una opción (1/2) o escribe 'debug' para activar modo debug:
 
 2. Todos los archivos en tu carpeta de usuario serán cifrados y se añadirá la extensión `.locked`.
 
-> NOTA: Si al aplicar el icono diera algun error, simplemente tendreis que adaptar vuestra ruta de donde este el `.ico` en el archivo `.reg` en esta linea `C:\\Users\\<USER>\\Desktop\\RansomwareLocker_Education\\locked.ico`
+> NOTA: Si al aplicar el icono diera algun error, simplemente tendreis que adaptar vuestra ruta de donde este el `.ico` en el archivo `set_locked_icon.reg` en esta linea `C:\\Users\\<USER>\\Desktop\\RansomwareLocker_Education\\locked.ico`
 
 3. Se generará una nota de rescate en el escritorio:
 
