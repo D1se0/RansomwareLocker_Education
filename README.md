@@ -21,8 +21,8 @@ RansomwareSim es una herramienta educativa que simula el funcionamiento básico 
 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/RansomwareSim.git
-cd RansomwareSim
+git clone https://github.com/D1se0/RansomwareLocker_Education.git
+cd RansomwareLocker_Education
 ```
 
 2. Compila el proyecto
